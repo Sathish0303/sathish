@@ -18,13 +18,21 @@ Abstract :
     and website. Some popular choices include JavaScript, Python, Ruby, and PHP.
 
 #### Frameworks: 
-    You can use web application frameworks to speed up the development process of your chat application and website. Some popular web frameworks include Node.js, Django, Ruby on Rails, and Laravel.
+    You can use web application frameworks to speed up the development process of 
+    your chat application and website. Some popular web frameworks include Node.js,
+    Django, Ruby on Rails, and Laravel.
 
 #### Real-time Communication: 
-    You'll need a real-time communication protocol for your chat application. WebSockets are a popular choice for real-time communication between the client and server.
+    You'll need a real-time communication protocol for your chat application.
+    WebSockets are a popular choice for real-time communication between the client
+    and server.
 
 #### Database: 
-    You'll need a database to store user information, chat history, and other data. Some popular choices include MySQL, PostgreSQL, MongoDB, and Redis.
+    You'll need a database to store user information, chat history, and other data.
+    Some popular choices include MySQL, PostgreSQL, MongoDB, and Redis.
 
 #### User Interface: 
-    You'll need to design a user interface for your chat application and website. You can use tools like Bootstrap, Materialize, or Foundation to help with the design process. Additionally, you can use JavaScript libraries like React, Vue, or Angular for building interactive UI elements.
+    You'll need to design a user interface for your chat application and website. 
+    You can use tools like Bootstrap, Materialize, or Foundation to help with the 
+    design process. Additionally, you can use JavaScript libraries like React, Vue,
+    or Angular for building interactive UI elements.
